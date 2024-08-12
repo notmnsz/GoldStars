@@ -29,7 +29,7 @@ for (const account of accountsFileData.split('\r\n')) {
 const bot_creator = ({ username, pass, home, auth }) => {
   let bot = mineflayer.createBot({
     username,
-    host: 'gladmc.com',
+    host: 'stardix.com',
     port: 25565,
     checkTimeoutInterval: 600000,
     brand: 'LunarClient:a1f71bc',
