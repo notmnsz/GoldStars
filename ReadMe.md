@@ -22,3 +22,7 @@ Em seguida, usa o comando /pw para se teletransportar para a área específica d
 - REQUISITOS
 
 Node.js v20+ instalado no dispositivo.
+
+-------------------------------------------------------------------------------------------
+Para qualquer tipo de suporte, acesse meu discord.
+https://discord.gg/6D3QqQ9xmk
